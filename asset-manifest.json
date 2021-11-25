@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/For-open-kakao/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/For-open-kakao/static/js/main.f4ba4e49.chunk.js",
-    "main.js.map": "/For-open-kakao/static/js/main.f4ba4e49.chunk.js.map",
+    "main.css": "/For-open-kakao/static/css/main.305dbc8e.chunk.css",
+    "main.js": "/For-open-kakao/static/js/main.9392e535.chunk.js",
+    "main.js.map": "/For-open-kakao/static/js/main.9392e535.chunk.js.map",
     "runtime-main.js": "/For-open-kakao/static/js/runtime-main.c754a9b1.js",
     "runtime-main.js.map": "/For-open-kakao/static/js/runtime-main.c754a9b1.js.map",
     "static/js/2.4f26205c.chunk.js": "/For-open-kakao/static/js/2.4f26205c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.433fe7a6.chunk.js": "/For-open-kakao/static/js/3.433fe7a6.chunk.js",
     "static/js/3.433fe7a6.chunk.js.map": "/For-open-kakao/static/js/3.433fe7a6.chunk.js.map",
     "index.html": "/For-open-kakao/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/For-open-kakao/static/css/main.8c8b27cf.chunk.css.map",
+    "static/css/main.305dbc8e.chunk.css.map": "/For-open-kakao/static/css/main.305dbc8e.chunk.css.map",
     "static/js/2.4f26205c.chunk.js.LICENSE.txt": "/For-open-kakao/static/js/2.4f26205c.chunk.js.LICENSE.txt",
-    "static/media/99.0481d1e8.png": "/For-open-kakao/static/media/99.0481d1e8.png"
+    "static/media/klayrocker.a385631b.png": "/For-open-kakao/static/media/klayrocker.a385631b.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c754a9b1.js",
     "static/js/2.4f26205c.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.f4ba4e49.chunk.js"
+    "static/css/main.305dbc8e.chunk.css",
+    "static/js/main.9392e535.chunk.js"
   ]
 }
